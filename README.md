@@ -304,93 +304,297 @@ SECCIÓN 8–3 Conversiones de fuente
 
 del problema 7
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b8.png)
 
 La corriente de resistencia 2 debido ala fuente de 2v actua sola
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b9.png)
 
 del problema 7
 
+![](https://github.com/aicanarejo/Informe-4/blob/main/b10.png)
+
 la corriente en resistencia 2 debido de 3v actua sola
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/a11.png)
 
 la corriente total a travez de resistencia 2 es:
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b12.png)
 
 10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b13.png)
+
+corriente atravez de RI debido a una fuente 1A:
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b14.png)
+
+La corriente travez debido a la fuente de 2v es cero debido a la resistencia infinita a la fuente 1A
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b17.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/a15.png)
+
+Corriente total Atravz de RL:
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/a15.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b16.png)
+
+La corriente atravez de RL debido a la fuente de 40v es cero debido a la resitencia corto de una fuente de 60v
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b17.png)
+
+la corriente atravez de RL debido a la fuente de 0.5 es cero debido a la resistencia cero de los 60v de la fuente 
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b19.png)
+
+Corriente total a atravez de RL:
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b20.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b21.png)
+
 
 12. Repita el problema 11 si R2 es de 10 kÆ.
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b22.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b23.png)
 
 14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interrupo.
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b24.png)
+
+circuitos propuestos para la solución:
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b25.png)
+
+SW1 cerrados en el circuito
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b26.png)
+
+SW1 ySW2 cerrados en el circuito 
+-corriente de la fuente de 12v(fuente de 6V puesta 0)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b27.png)
+
+-corriente de la fuente de 6v(fuente de 12 puesta a 0)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b28.png)
+
+SW1 ySW2 ySW3 cerrados en el circuito
+-corriente de la fuente 12v(fuentes de 6v y 9v puesta 0
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b29.png)
+
+-corriente de la fuente 6v(fuentes de 6v y 12v puesta 0)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b30.png)
+
+-corriente de la fuente de 9v(fuente de 6v y 12v puesta 0)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b31.png)
+
 
 SECCIÓN 8–5 Teorema de Thevenin
 
 16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b32.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/a33.png)
 
 18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/a34.png)
+
+Primero ponemos a 0 la fuente corriente eliminar de resistencia 4 y volvemos a dibujar el circuito
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/a35.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/a36.png)
+
+determinamos V1 debido a la fuente de 50V usando el circuito de thevenin y redibujamos 
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b37.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/a38.png)
+
+Acontinuación ponemos la fuente de voltaje, eliminados resistencia 4 redibujamos el circuito
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b39.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b40.png)
+
+Determine V4 debido a la fuente de corriente usando el circuito de thevenin
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b41.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b42.png)
+
+Use superposición para combianr los voltajes de V4 para obtener el voltaje total de R4:
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b43.png)
 
 20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kÆ, 5 kÆ, y 10 kÆ en la figura 8-80
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b44.png)
+
+considere R6 (R7+R8) para hacer la carga thevenin a la izquiera del punto A como se muestra
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b45.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b46.png)
+
+Para determinar VTH redibujamos el circuito
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b47.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b48.png)
+
+El circuito de thevenin como dibujamos, la corriente en el punto A se determina para el valor de R8
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b49.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b50.png)
+
 
 22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b51.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b52.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b53.png)
+
 
 SECCIÓN 8–6 Teorema de Norton
 
 24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b54.png)
+
+primero Rn se encuentra simplificación de circuitos como la muestra la figura
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b55.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b56.png)
+
+La corriente a travez de los terminales AB en cortocircuitos es afectiva como se muestra a continuación:
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b57.png)
+
+Visto desde la fuente 
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b58.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b59.png)
+
+Finalmente la corriente a travez de RL se determina conectando Rl al circuito equivalente de northon como mostramos en el gráfico
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b60.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b61.png)
 
 26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8  8 kÆ
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b62.png)
+
+redibujamos el circuito
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b63.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b64.png)
+
+redibujamos el circuito 
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b65.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b66.png)
+
+Volvemos a redibujar el circuito 
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b67.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b68.png)
+
 
 28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b69.png)
+
+redibujamos el circuito y calculemos
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b70.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b71.png)
+
+redibujemos para calcular la corriente 
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b72.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b73.png)
+
+volvemos a dibujar el circuito
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b74.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b75.png)
+
+determinamos la corriente total
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b76.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b77.png)
 
 SECCIÓN 8–7 Teorema de transferencia de potencia máxima
 
 30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b78.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b79.png)
 
 32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b80.png)
+
+con todos del problema 31 resolvemos 
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b81.png)
+
+-IL debido a la fuente 1,5v:
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b82.png)
+
+IL debido a la fuente de 1mA
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b83.png)
 
 SECCIÓN 8–8 Conversiones delta a Y ( a Y) y Y a 
 
 34. En la figura 8-88, convierta cada red delta en una red Y
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b84.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b85.png)
 
 36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b86.png)
 
-38. Abra el archivo P08-38 y, utilizando mediciones, determine el equivalente de Thevenin del circuito entre la terminal A y tierra
+Convierta delta formando por R3, R4 y R5 en una configuracion estrellada
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b87.png)
 
-40. Abra el archivo P08-40 y determine la falla, si la hay.
+![](https://github.com/aicanarejo/Informe-4/blob/main/b88.png)
 
-![](
+En el circuito original:
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b89.png)
+
 
 CONCLUSIONES
 
