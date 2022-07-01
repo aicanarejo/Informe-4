@@ -282,19 +282,41 @@ SECCIÓN 8–3 Conversiones de fuente
 
 2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes. 
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b1.png)
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b2.png)
 
 4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b3.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b4.png)
 
 6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes
 
-![](
+![](https://github.com/aicanarejo/Informe-4/blob/main/b5.png)
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b6.png)
 
 8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
+
+![](https://github.com/aicanarejo/Informe-4/blob/main/b7.png)
+
+del problema 7
+
+![](
+
+La corriente de resistencia 2 debido ala fuente de 2v actua sola
+
+![](
+
+del problema 7
+
+la corriente en resistencia 2 debido de 3v actua sola
+
+![](
+
+la corriente total a travez de resistencia 2 es:
 
 ![](
 
