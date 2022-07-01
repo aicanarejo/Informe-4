@@ -1,6 +1,6 @@
 UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
-INFORME TAREA: CAPITULO 5 y 6
+INFORME TAREA: CAPITULO 7 y 8
 
 NOMBRE: CAÑAREJO ALAN
 
@@ -597,6 +597,12 @@ En el circuito original:
 
 
 CONCLUSIONES
+
+Una de las varias integrantes que normalmente teemos que encontrar fueron las caidas de voltaje de varios circuitos com asi el voletje de que pas por algunas de las 
+resistencias asi como transfromar y obtener la medida de corrientes haciendo funcionar resistencias en serie-paralelo. 
+Trans la revisión de los datos gracias a leyes de thevenin y varios mas y el aprendijae y desarrolo de ejercicios puestos en cada clase obtubios un buen desarrolo de los ejercicios del cap7 y cap8 del libro de pricipios electronicos 8 edición.
+Recurrente los ejercicos fueron relaizados para poner en practica todo lo aprendido envarias clases dando como resultado la resolucion de los ejercicios.
+Gracias el teorema de thevenin podemos reducir un ejercicoo tan grande transformalo en un ejercico que es posible resolver en menor tiempo en este metod se puede implimentar cualquier mmetodo conocido anterirormente y asi poder calcular intensidad de corriente y el la corriente total del circuito y resistencia total.
 
 VIDEO
 
