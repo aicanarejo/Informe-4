@@ -605,7 +605,9 @@ Recurrente los ejercicos fueron relaizados para poner en practica todo lo aprend
 Gracias el teorema de thevenin podemos reducir un ejercicoo tan grande transformalo en un ejercico que es posible resolver en menor tiempo en este metod se puede implimentar cualquier mmetodo conocido anterirormente y asi poder calcular intensidad de corriente y el la corriente total del circuito y resistencia total.
 
 VIDEO
+https://youtu.be/Cy0JQlGFvnk
 
-RUBRICA
+
+
 
 
